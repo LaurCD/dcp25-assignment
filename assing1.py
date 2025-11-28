@@ -251,7 +251,7 @@ def display_menu():
     print("ABC MUSIC DATABASE MENU")
     print("="*50)
     print("1. Load ABC files into database")
-    print("2. View the first 10 tunes")
+    print("2. View the first 10 tunes") #allows viewing of first 10 tunes
     print("3. Search by title") 
     print("4. Filter by book number")
     print("5. Filter by tune type")
@@ -513,6 +513,6 @@ def main():
             print("Invalid choice")
 
 
-# This runs when you execute the script
+# This final piece runs when you execute the script
 if __name__ == "__main__":
     main()
