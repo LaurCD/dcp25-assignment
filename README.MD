@@ -7,9 +7,17 @@ Name: Laurentiu Codreanu
 Student Number: C24387041
 
 # Screenshots
+Screenshot of Interactive Menu
 ![Alt text](https://github.com/LaurCD/dcp25-assignment/blob/main/images/Screenshot%202025-12-04%20at%2015.46.12.png)
 
+Screenshot of Tune Parsing
+![Alt Text](https://github.com/LaurCD/dcp25-assignment/blob/main/images/Screenshot%202025-12-04%20at%2015.46.44.png)
 
+Screenshot of first 10 Tunes being Displayed
+![Alt Text](https://github.com/LaurCD/dcp25-assignment/blob/main/images/Screenshot%202025-12-04%20at%2015.47.22.png)
+
+Screenshot showing Menu return results when searching tunes by Title
+![Alt Text](https://github.com/LaurCD/dcp25-assignment/blob/main/images/Screenshot%202025-12-04%20at%2015.48.42.png)
 
 # Description of the project
 For this assignment, I created a Pyhton program that works with the collection of ABC music notation files and stores the information in a MySQL database. The program searches through folders of abc. files, reads and parses each tune, and extracts details like the ID, Book Number, Tune ID, Title, Alt Title, Tune Type, Key Signature and Notation. 
@@ -192,6 +200,7 @@ This is a table:
 |Some stuff | Some more stuff in this column |
 
 |Some stuff | Some more stuff in this column |
+
 
 
 
