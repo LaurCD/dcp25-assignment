@@ -58,6 +58,46 @@ Only the most important columns are printed, so the output is easy to read.
 Enter '0' at any time to quit the application.
 
 # How it works:
+This program is designed to take a collection of ABC music notation files, extract useful information from them, and store everything neatly in a MySQL database. Heres how everything worked:
+
+Finding the Files:
+The script looks through the abc_books directory.
+Each folder inside ( named numbers 1 & 2 ) represents a book.
+All .abc files inside these folders are collected and sent for parsing.
+
+Parsing Each ABC File:
+The program reads each file line by line.
+When it finds an X: tag, it starts a new tune
+It extracts:
+X: tune reference number
+T: Title of tune
+R: rhythm ( tune type )
+K: key signature 
+any remaining lines goes into music notation
+Each tune is stored in a dictionary.
+
+Inserting into the Database:
+After parsing, each tunes dictionary is mapped to the appropriate database columns.
+The program uses an SQL INSERT statement to add the tune into the music table.
+Users can choose to clear old data before inserting new tunes.
+
+Loading Data with Pandas:
+The script can load the entire music table into pandas DataFrame.
+This makes searching, filtering, and displaying results simple and readable.
+
+Interactive Menu:
+The main loop presents the user with options.
+Each menu choice calls a specific function like:
+Loading files
+Viewing the first 10 tunes
+Searching a tune by title
+And filtering by book, tune type, or key
+Results are printed directly in the console
+
+Program Flow:
+The program keeps running until the user selects option '0' to exit.
+It is designed to be simple to use while showing how file parsing, databases, and pandas can work together.
+
 
 # List of files in the project
 
@@ -149,6 +189,7 @@ This is a table:
 |Some stuff | Some more stuff in this column |
 
 |Some stuff | Some more stuff in this column |
+
 
 
 
