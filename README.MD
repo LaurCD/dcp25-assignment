@@ -7,7 +7,7 @@ Name: Laurentiu Codreanu
 Student Number: C24387041
 
 # Screenshots
-![Alt text](images/Screenshot 2025-12-04 at 15.46.12.png)
+![Alt text](https://github.com/LaurCD/dcp25-assignment/blob/main/images/Screenshot%202025-12-04%20at%2015.46.12.png)
 
 
 
@@ -192,6 +192,7 @@ This is a table:
 |Some stuff | Some more stuff in this column |
 
 |Some stuff | Some more stuff in this column |
+
 
 
 
