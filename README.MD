@@ -21,6 +21,42 @@ Overall, this program includes file handling, text parsing, database operatiions
 
 # Instructions for use
 
+1. Set Up the Database
+-Install and run MySQL on your machine
+-Create a database called "abc_books"
+-Inside it, create a table named music with these columns: id, book_number, tune_id, title, alt_title, tune_type, key_signature, notation.
+-If your MySQL username or password is different from the script, update it in the connectToDb() function
+
+2. Prepare the ABC files
+-In the main project folder, make sure there is a directory called abc_books
+Each subfolder inside should be named with its book number ( 1 & 2 )
+
+3. Run the Program
+-Open the script in VSCode and run it
+-Make sure the required Python modules are installed like mysql.connector, pandas, os etc..
+
+4. Using the Menu
+When the program starts, a text-based menu will appear.
+-The options let you:
+1. Load and parse all ABC files, and insert them into the Database.
+2. View the first 10 tunes
+3. Search tunes by title
+4. Filter tunes by book number
+5. Filter tunes by tune type
+6. Filter tunes by key signature 
+0. Exit the Program
+
+5. Loading Data
+-When selecting option 1, you'll be asked if you want to delete existing data from the table first.
+-Type 'y' to clear everything or 'n' to keep old inputs
+
+6. Viewing Results
+-The results from from options 2-6 are shown in the concsole using pandas DataFrames
+-Only the most important columns are printed, so the output is easy to read.
+
+7. Exit
+-Enter '0' at any time to quit the application.
+
 # How it works:
 
 # List of files in the project
@@ -113,6 +149,7 @@ This is a table:
 |Some stuff | Some more stuff in this column |
 
 |Some stuff | Some more stuff in this column |
+
 
 
 
