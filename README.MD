@@ -38,13 +38,13 @@ Each subfolder inside should be named with its book number ( 1 & 2 )
 4. Using the Menu
 When the program starts, a text-based menu will appear.
 -The options let you:
-1. Load and parse all ABC files, and insert them into the Database.
-2. View the first 10 tunes
-3. Search tunes by title
-4. Filter tunes by book number
-5. Filter tunes by tune type
-6. Filter tunes by key signature 
-0. Exit the Program
+Option 1 = Load and parse all ABC files, and insert them into the Database.
+Option 2 = View the first 10 tunes
+Option 3 = Search tunes by title
+Option 4 = Filter tunes by book number
+Option 5 = Filter tunes by tune type
+Option 6 = Filter tunes by key signature 
+Option 0 = Exit the Program
 
 5. Loading Data
 -When selecting option 1, you'll be asked if you want to delete existing data from the table first.
@@ -149,6 +149,7 @@ This is a table:
 |Some stuff | Some more stuff in this column |
 
 |Some stuff | Some more stuff in this column |
+
 
 
 
