@@ -2,9 +2,9 @@
 
 - [Assignment Brief](assignment.md)
 
-Name:
+Name: Laurentiu Codreanu
 
-Student Number: 
+Student Number: C24387041
 
 # Screenshots
 
@@ -104,3 +104,4 @@ This is a table:
 |Some stuff | Some more stuff in this column |
 
 |Some stuff | Some more stuff in this column |
+
