@@ -8,6 +8,8 @@ Student Number: C24387041
 
 # Screenshots
 
+![Text] (images/Screenshot 2025-12-04 at 15.46.12.png)
+
 # Description of the project
 For this assignment, I created a Pyhton program that works with the collection of ABC music notation files and stores the information in a MySQL database. The program searches through folders of abc. files, reads and parses each tune, and extracts details like the ID, Book Number, Tune ID, Title, Alt Title, Tune Type, Key Signature and Notation. 
 
@@ -189,6 +191,7 @@ This is a table:
 |Some stuff | Some more stuff in this column |
 
 |Some stuff | Some more stuff in this column |
+
 
 
 
