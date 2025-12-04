@@ -112,16 +112,22 @@ It is designed to be simple to use while showing how file parsing, databases, an
 
 # List of files in the project
 
-| Files | Source |
+| Files     | Source    |
 |-----------|-----------|
 | assing1.py | Starter code + self written + modified from [reference]() |
-| abc_books | loaded from git fork |
+| abc_books  | loaded from git fork |
 
 # References
-| Files | Source |
+| Topics    |  Source   |
 |-----------|-----------|
-| assing1.py | Starter code + self written + modified from [reference]() |
-| test.py | Modified from [reference]() |
+| File Loading & Parsing  | [Website](https://realpython.com/read-write-files-python/) |
+| File Loading & Parsing  |  [YouTube](https://www.youtube.com/watch?v=6Ar7sf6aU_M&list=PLMSYnjOjlErdyy83UXCykRV0-dXAMtFW-) |
+| test.py | From [reference]() |
+| test.py | From [reference]() |
+| test.py | From [reference]() |
+| test.py | From [reference]() |
+| test.py | From [reference]() |
+| test.py | From [reference]() |
 | test.py | From [reference]() |
 
 
@@ -132,5 +138,6 @@ Bla bla bla
 # What I learned
 
 Bla bla bla
+
 
 
