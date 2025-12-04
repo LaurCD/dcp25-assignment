@@ -9,6 +9,7 @@ Student Number: C24387041
 # Screenshots
 
 # Description of the project
+Bla Bla
 
 # Instructions for use
 
@@ -104,4 +105,5 @@ This is a table:
 |Some stuff | Some more stuff in this column |
 
 |Some stuff | Some more stuff in this column |
+
 
