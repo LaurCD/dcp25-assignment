@@ -122,14 +122,10 @@ It is designed to be simple to use while showing how file parsing, databases, an
 |-----------|-----------|
 | File Loading & Parsing  | [Website](https://realpython.com/read-write-files-python/) |
 | File Loading & Parsing  |  [YouTube](https://www.youtube.com/watch?v=6Ar7sf6aU_M&list=PLMSYnjOjlErdyy83UXCykRV0-dXAMtFW-) |
-| test.py | From [reference]() |
-| test.py | From [reference]() |
-| test.py | From [reference]() |
-| test.py | From [reference]() |
-| test.py | From [reference]() |
-| test.py | From [reference]() |
-| test.py | From [reference]() |
-
+| Database Connection (MySQL with Python| [Website] (https://www.w3schools.com/python/python_mysql_getstarted.asp) |
+| Data Loading with Pandas | [Website](https://pandas.pydata.org/docs/reference/api/pandas.read_sql.html) |
+| Data Loading with Pandas | [YouTube](https://www.youtube.com/watch?v=F6kmIpWWEdU) |
+| Simple Inout Menu System | [YouTube](https://www.youtube.com/watch?v=63nw00JqHo0) |
 
 # What I am most proud of in the assignment
 
@@ -138,6 +134,7 @@ Bla bla bla
 # What I learned
 
 Bla bla bla
+
 
 
 
