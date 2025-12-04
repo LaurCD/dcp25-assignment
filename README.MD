@@ -127,16 +127,22 @@ It is designed to be simple to use while showing how file parsing, databases, an
 | Data Loading with Pandas | [YouTube](https://www.youtube.com/watch?v=F6kmIpWWEdU) |
 | Simple Inout Menu System | [YouTube](https://www.youtube.com/watch?v=63nw00JqHo0) |
 
-# What I am most proud of in the assignment
 
-Bla bla bla
+# What I am most proud of in the assignment
+The part of this assignment that I am most proud of is getting the whole system to work together from reading the raw .abc files, to parsing all the musical information correctly, to storing everything in a MySQL database, and then being able to interact with it through a menu. At the start, the ABC format looked messy and difficult to parse, so getting the parser to reliably extract titles, alt_title, tune_type, key_signatures, and notation felt like a big achievement.
+
+I’m also proud of integrating pandas with the database. Being able to load the SQL table into a DataFrame and then filter or search the data made the program feel much more powerful and user friendly. It was satisfying to see my data appear cleanly in the console after all the parsing and database work.
+
+Finally, getting the interactive menu working smoothly made the project feel like a complete application. Instead of just running small tests, I ended up with a program that someone could actually use to browse and explore the tunes. Seeing everything come together like that is definitely the part I’m most proud of.
+
 
 # What I learned
 
-Bla bla bla
+Throughout this assignment, I learned a lot more than I expected. One of the biggest things was understanding how to actually work with real files and parse them properly. I’ve dealt with simple text files before, but the .abc format required me to think a bit differently and figure out how to extract specific pieces of information without breaking anything.
 
+I also learned how useful pandas is when it comes to handling data. Being able to load everything from the database into a DataFrame and instantly filter or sort it made things so much easier. It really showed me why pandas is such a popular tool
 
-
+Overall, this project helped me understand how all these different file parsings, databases, and Python tools can come together in a real program. It was challenging at times, but I definitely came out of it with a much better understanding of how to manage and work with data.
 
 
 
