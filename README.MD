@@ -114,13 +114,16 @@ It is designed to be simple to use while showing how file parsing, databases, an
 
 | Files | Source |
 |-----------|-----------|
-| main.py | Self written |
+| assing1.py | Starter code + self written + modified from [reference]() |
+| abc_books | loaded from git fork |
+
+# References
+| Files | Source |
+|-----------|-----------|
+| assing1.py | Starter code + self written + modified from [reference]() |
 | test.py | Modified from [reference]() |
 | test.py | From [reference]() |
 
-# References
-* Item 1
-* Item 2
 
 # What I am most proud of in the assignment
 
@@ -129,4 +132,5 @@ Bla bla bla
 # What I learned
 
 Bla bla bla
+
 
